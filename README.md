@@ -1,0 +1,1 @@
+# issue_geolocator_intervel_duration
